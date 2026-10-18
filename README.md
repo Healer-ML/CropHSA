@@ -1,8 +1,8 @@
 # CropHSA
 
-This repository hosts the model overview figure for CropHSA.
+![CropHSA model overview](figures/CropHSA_model.png)
 
-![CropHSA model overview](figures/CropHSA_model.pdf)
+[Download the PDF figure](figures/CropHSA_model.pdf)
 
 ## Code and dataset
 
